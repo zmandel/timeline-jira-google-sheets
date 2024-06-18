@@ -7,6 +7,8 @@
 
 • Alerts when issues are not started or ended on time.
 
+• View timelines as regular sheets and as native timelines.
+
 • One click to view issue details or to open in Jira.
 
 • Works in "Epics & Stories" and "Stories & Subtasks" modes for issue grouping.
