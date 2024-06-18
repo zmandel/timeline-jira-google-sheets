@@ -1,5 +1,5 @@
 # timeline-jira-google-sheets
-Create awesome Jira timelines for multiple projects in Google sheets.
+**Create awesome Jira timelines for multiple projects in Google sheets.**
 
 • Import Jira reports into Sheets.
 
@@ -13,7 +13,8 @@ Create awesome Jira timelines for multiple projects in Google sheets.
 
 • Keeps all previously made timelines to easily compare them.
 
-The code in this repo is already included in this Google Sheets template:
+To use you only need the Google Sheets Template below which guides you in configuring it.
+Note: The code in this repo is already included in the  Google Sheets template:
 https://docs.google.com/spreadsheets/d/1DymIQ9GktObQtjUMWFmBvr8mvrGqXTbmx5F-v5LFqOQ/template/preview
 
 ![preview](https://repository-images.githubusercontent.com/812432053/2c80a729-f99c-4b31-a7a3-1705f6d62466)
