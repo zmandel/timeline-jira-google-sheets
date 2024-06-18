@@ -9,11 +9,11 @@
 
 • One click to view issue details or to open in Jira.
 
-• Works in "Epics & Stories" and "Stories & Subtasks" modes.
+• Works in "Epics & Stories" and "Stories & Subtasks" modes for issue grouping.
 
-• Keeps all previously made timelines to easily compare them.
+• Keeps all previously made timelines for easy comparison.
 
-To use you only need the Google Sheets Template below which guides you in configuring it.
+To use you only need the Google Sheets Template below, which includes instructions and configuration.
 Note: The code in this repo is already included in the  Google Sheets template:
 https://docs.google.com/spreadsheets/d/1DymIQ9GktObQtjUMWFmBvr8mvrGqXTbmx5F-v5LFqOQ/template/preview
 
